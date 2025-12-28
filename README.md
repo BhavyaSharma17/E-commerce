@@ -72,13 +72,13 @@ npm install
 
 3️⃣ Set Up Environment Variables
 
-MONGO_URI=mongodb+srv://Harshul:1408@trend-haven.teqr517.mongodb.net/projectdb?retryWrites=true&w=majority&appName=Trend-Haven
-CLOUDINARY_CLOUD_NAME=de2nvgvqw
-CLOUDINARY_API_KEY=974177579554955
-CLOUDINARY_API_SECRET=7FRqVdGojkLofVOYtZUgEro5qIQRAZORPAY_KEY_ID=rzp_live_mbV46CRmLqswSL
-RAZORPAY_KEY_SECRET=phEoxTLx7h6tcNethMcHCQfc
-GOOGLE_GEMINI_API_KEY=AIzaSyDhL7EtkmEHYngMjwNmLH5QHclaeRpQniI
-REACT_APP_RAZORPAY_KEY_ID=rzp_live_mbV46CRmLqswSL
+MONGO_URI
+CLOUDINARY_CLOUD_NAME
+CLOUDINARY_API_KEY
+CLOUDINARY_API_SECRET
+RAZORPAY_KEY_SECRET
+GOOGLE_GEMINI_API_KEY
+REACT_APP_RAZORPAY_KEY_ID
 
 4️⃣ Run the Application
 - 🔧 Start server: npm run dev
