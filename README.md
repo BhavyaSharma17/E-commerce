@@ -60,7 +60,7 @@
 
 ## 🚀 Installation & Setup
 <pre>1️⃣ Clone the Repository
-git clone https://github.com/harshulchawla1408/Trend-Haven.git
+git clone https://github.com/BhavyaSharma17/E-commerce.git
 cd Trend_Haven
 
 2️⃣ Install Dependencies for both client and server folders (In separate terminals)
@@ -111,5 +111,4 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 
 ---
 
-Made with ❤️ by [Harshul Chawla](https://github.com/harshulchawla1408)
-
+Made with ❤️ by [Bhavya Sharma](https://github.com/BhavyaSharma17)
